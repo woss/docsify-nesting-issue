@@ -1,0 +1,3 @@
+class NameClass {
+  constructor(parameters) {}
+}
